@@ -1,0 +1,10 @@
+[project]
+name = "foundry-local-rag"
+version = "0.2.0"
+description = "A document-based local RAG application with Microsoft Foundry Local"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "foundry-local-sdk-winml>=1.0,<2; sys_platform == 'win32'",
+    "foundry-local-sdk>=1.0,<2; sys_platform != 'win32'",
+    "pypdf>=6,<7",
+]

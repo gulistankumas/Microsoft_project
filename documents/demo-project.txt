@@ -1,0 +1,18 @@
+FICTIONAL DEMO PROJECT - NOT AN OFFICIAL MICROSOFT INTERNSHIP POLICY
+
+The Atlas project is a fictional internship exercise for demonstrating RAG.
+Its goal is to build a local assistant that answers questions using project
+documents without sending document contents to a cloud language model.
+
+The Atlas demo lasts three weeks. During week one, the student prepares the
+Python environment and learns about embeddings. During week two, the student
+adds document loading and retrieval. During week three, the student tests
+the application and presents a demonstration.
+
+The demonstration deliverables are the Python source code, a README with
+setup instructions, and a short presentation explaining the RAG pipeline.
+The presentation should include one supported question and one question
+whose answer is not in the documents.
+
+The Atlas review meeting takes place on Friday at 14:00. The fictional project
+mentor is Deniz. No budget or salary information is included in these documents.
